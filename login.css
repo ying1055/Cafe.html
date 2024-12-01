@@ -136,7 +136,7 @@ body{
 }
 
 .btn {
-    display:e-block;
+     display: inline-block;
     margin-top: 0.6rem;
     width: 100%;
     padding: 0.7rem;
@@ -149,6 +149,7 @@ body{
     text-align: center;
     transition: background 0.3s, color 0.3s; /* Smooth transition */
 }
+
 
 .btn:hover {
     background: #fff
